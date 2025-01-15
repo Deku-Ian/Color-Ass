@@ -1,0 +1,12 @@
+Red, "Red", #FF0000, 255, 0, 0 
+Orange, "Orange", #FFA500, 255, 165, 0  
+Yellow, "Yellow", #FFFF00, 255, 255, 0 
+Green, "Green", #008000, 0, 128, 0  
+Blue, "Blue", #0000FF, 0, 0, 255  
+Indigo, "Indigo", #4B0082,75, 0, 130 
+Violet, "Violet", #7F00FF,127, 0, 255
+Maroon, "Maroon", #800000, 128, 0, 0  
+Black, "Black", #000000, 0, 0, 0     
+Pink, "Pink", #FF00FF, 255, 0, 255  
+Tan, "Tan", #D2B48C, 210, 180, 140  
+White, "White", #FFFFFF, 255, 255, 255
