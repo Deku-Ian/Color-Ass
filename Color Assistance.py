@@ -107,7 +107,6 @@ def stop_video():
     video_running = False
 
 # Function to handle image upload and color detection
-# Function to handle image upload and color detection
 def upload_image(label, text_label):
     file_path = filedialog.askopenfilename(filetypes=[("Image Files", "*.jpg;*.jpeg;*.png;*.bmp")])
     if not file_path:
